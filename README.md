@@ -6,12 +6,15 @@ scrapy中文网  http://www.scrapyd.cn/
 
 ## 目录
 
-1_twisted异步
-```
-twisted与deferred对象
-https://www.cnblogs.com/xianguang/p/7027661.html
+#### 1_twisted异步
 
-【源码解读】如何充分发挥 Scrapy 的异步能力
-https://cloud.tencent.com/developer/article/1424507
-```
+twisted与deferred对象 https://www.cnblogs.com/xianguang/p/7027661.html
+
+【源码解读】如何充分发挥 Scrapy 的异步能力 https://cloud.tencent.com/developer/article/1424507
+
+#### 2_Scrapy限速模块AutoThrottle
+
+https://docs.scrapy.org/en/latest/topics/autothrottle.html#
+
+https://www.jianshu.com/p/c40d8b2f86dd
 
