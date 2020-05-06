@@ -18,3 +18,10 @@ https://docs.scrapy.org/en/latest/topics/autothrottle.html#
 
 https://www.jianshu.com/p/c40d8b2f86dd
 
+#### 3_scrapy项目部署
+
+https://www.cnblogs.com/pythoner6833/p/9100783.html
+
+#### 4_scrapyd远程连接配置
+
+https://www.cnblogs.com/zongfa/p/7967900.html
