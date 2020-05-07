@@ -38,3 +38,7 @@ https://cloud.tencent.com/developer/article/1084962
 ```
 
 Scrapy-Redis 空跑问题，redis_key链接跑完后，自动关闭爬虫 https://www.cnblogs.com/zhongshuiping/p/9820922.html
+
+#### 7_Scrapyd日志输出优化
+
+https://cuiqingcai.com/4534.html
